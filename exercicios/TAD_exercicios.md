@@ -1,4 +1,4 @@
-# Lista de exercícios — TAD
+# Lista de exercícios: TAD
 
 1. O que é um Tipo Abstrato de Dados (TAD) e qual a característica fundamental na sua utilização?
 

@@ -23,6 +23,6 @@
 
 9. Faça um programa que leia uma lista e, em seguida, leia duas posições X e Y. Ao final, o programa deverá escrever a soma dos valores encontrados nessas posições.
 
-10. Leia uma lista de valores inteiros. Contar e escrever quantos valores negativos ela possui.
+10. Faça um programa que leia uma lista de valores inteiros. Em seguida, deverá contar e escrever quantos valores negativos ela possui.
 
 11. Faça um programa que receba uma lista de inteiros. Em seguida, deverá ser impresso o maior e o menor elemento da lista.
